@@ -25,7 +25,7 @@ const createI18nContent = (t) => {
         {
             name: 'GitHub',
             icon: 'github',
-            link: 'https://github.com/once-ui-system/nextjs-starter',
+            link: 'https://github.com/SUDEEP-M-SHETTY',
         },
         {
             name: 'LinkedIn',
